@@ -1,7 +1,7 @@
 
 # Alchemy AI
 
-[![Deploy on Vercel](https://img.shields.io/badge/deploy%20on-Vercel-brightgreen.svg?style=for-the-badge&logo=vercel)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Falchemy-ai%2Falchemy-ai&env=OPENAI_API_KEY)
+![Vercel Deploy](https://deploy-badge.vercel.app/vercel/alchemy-ai-jet)
 
 English | [Kannada](README.kn.md)
 </div>
