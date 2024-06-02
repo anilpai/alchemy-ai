@@ -1,0 +1,9 @@
+# CODEOWNERS
+
+# Default ownership
+*                            @anilpai
+
+# Specific ownership rules
+/docs/                        @documentation-team
+/src/components/             @frontend-team
+/src/api/                     @backend-team
