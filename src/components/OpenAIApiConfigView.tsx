@@ -80,6 +80,9 @@ const OpenAIApiConfigView = () => {
           checked={openAIApiConfig.model === model.id}
           onChange={(value) => handleSetOpenAIApiConfig({ model: value })}
         />
+        <label htmlFor={model.id} className="block ml-3 text-sm font-medium leading-6 text-gray-900">
+          {model.title}
+        </label>
       </div>
     );
   };
@@ -89,7 +92,6 @@ const OpenAIApiConfigView = () => {
       <div className="w-full p-4 border border-gray-200 rounded-lg dark:border-zinc-700">
         <div>
           <label className="text-base font-semibold ">{t("setting.openai-api-configuration.model")}</label>
-          {allowSelfOpenAIKey() && <p className="text-sm text-gray-500">{t("setting.openai-api-configuration.model-description")}</p>}
           <fieldset className="mt-4">
             <div className="space-y-4 sm:flex sm:items-center sm:space-x-10 sm:space-y-0">
               {models.map((model) =>

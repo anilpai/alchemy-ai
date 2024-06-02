@@ -73,9 +73,7 @@
     "openai-api-configuration": {
       "self": "OpenAI API configuration",
       "model": "Model",
-      "model-description": "Quota won't be consumed if you provide your own key below.",
-      "quota-per-ask": "{{count}} quota per ask",
-      "key-description": "Bring your own key to waive quota requirement.",
+      "key-description": "Bring your own key.",
       "find-my-key": "Find my key",
       "endpoint-description": "Optional endpoint pointing to your own compatible server or gateway."
     },
