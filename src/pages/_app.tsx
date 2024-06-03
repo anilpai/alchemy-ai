@@ -1,3 +1,4 @@
+import { Analytics } from "@vercel/analytics/react";
 import dayjs from "dayjs";
 import localizedFormat from "dayjs/plugin/localizedFormat";
 import { AppProps } from "next/app";
@@ -70,6 +71,7 @@ function MyApp({ Component, pageProps: { ...pageProps } }: AppProps<{}>) {
     <>
       <Component {...pageProps} />
       <Toaster />
+      <Analytics />
     </>
   );
 }
