@@ -18,6 +18,10 @@ Experience the future of data tools with Alchemy AI! We're leveraging the power 
 
 Alchemy AI, a product built using Next.js, currently supports PostgreSQL databases. We are continuously expanding our capabilities and plan to include more databases in the future. Stay tuned for updates!
 
+## Architecture
+
+[View on Eraser![](https://app.eraser.io/workspace/6d7Oh8I8idREdZCiyqqN/preview?elements=OcrXkUXnOoTc6GDeTroZVg&type=embed)](https://app.eraser.io/workspace/6d7Oh8I8idREdZCiyqqN?elements=OcrXkUXnOoTc6GDeTroZVg)
+
 ### OpenAI related
 
 - `OPENAI_API_KEY`: OpenAI API key. You can get one from [here](https://platform.openai.com/api-keys).
