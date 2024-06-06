@@ -6,6 +6,14 @@
 English | [Kannada](README.kn.md)
 </div>
 
+## Product Tour
+
+
+
+https://github.com/anilpai/alchemy-ai/assets/2447811/aeb14ee9-bf9b-4461-b962-a4f481dd741c
+
+
+
 ## What
 
 Introducing Alchemy AI, a revolutionary SQL client that transforms the way you interact with your database. Leveraging the power of natural language processing, Alchemy AI allows you to perform database operations such as querying, modifying, adding, and deleting data, all through intuitive chat-based communication. It's a seamless blend of advanced technology and user-friendly design, making database management more accessible and efficient than ever before.
